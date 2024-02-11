@@ -1,8 +1,8 @@
-# baavlibuch
-#Ankur Tiwari
-#ankur73tiwari@gmail.com
+# Earnest Fintech Limited
+# Ankur Tiwari
+# ankur73tiwari@gmail.com
 
-# Baavlibuch assignment
+# Earnest Fintech Limited assignment
 
 This projects let's user to add their ID, images, password, friendId and a text.
 
