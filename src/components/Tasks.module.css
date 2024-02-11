@@ -1,0 +1,65 @@
+.containerSection {
+  background-color: #f5f5f7;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.containerDiv {
+  background-color: #fff;
+  min-height: 90vh;
+  border-radius: 15px;
+  padding: 15px;
+  position: relative;
+}
+
+.taskCard {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f5f7fa;
+}
+.btns {
+  display: flex;
+  gap: 0 15px;
+}
+.btns > button {
+  width: 50%;
+}
+.newTaskBtnDiv {
+  position: absolute;
+  left: 0;
+  bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.newTaskBtn {
+  /* left: 50%;
+  transform: translate(-50%); */
+  padding: 8px 25px;
+  border-radius: 25px;
+  border: none;
+  border-radius: 20px;
+  border: 2px solid #0f6405;
+  color: #0f6405;
+  background-color: #fff;
+  transition: all ease-in-out 250ms;
+}
+.newTaskBtn:hover {
+  background-color: #0f6405;
+  color: #fff;
+}
+
+.infoDiv {
+  position: absolute;
+  bottom: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.infoDiv p {
+  color: #727272;
+}
